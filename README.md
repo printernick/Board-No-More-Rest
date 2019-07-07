@@ -1,6 +1,7 @@
 # Board-No-More-Rest
 
 (CLIENT)
+
 Initial webpage is a list of products including name, price, players, playing time, age, and image This
 information is all gathered by requesting a resource from the server which gets all of the board games
 in a SQL database.
@@ -16,15 +17,25 @@ a table for the product's details, a description, and a form to purchase the gam
 When filling out the form, the inputs will be:
 
 Board Game: select one of the listed board games
+
 Quantity: a positive integer
+
 First Name: nonempty string
+
 Last Name: nonempty string
+
 Phone Number: 9 digit integer in the format: 123-456-7890
+
 Address: nonempty string
+
 Zip: 5 digit integer
+
 City: nonempty string
+
 State/Province/Region: nonempty string
+
 Delivery Option: select one of the listed shipping options
+
 Credit Card Number: 16 digit integer in the format: 1234-5678-9012-3456
 
 *NOTE: There are no options to select a country because we are currently
