@@ -1,6 +1,6 @@
 # Board-No-More-Rest
 
-(CLIENT)
+<ul>CLIENT</ul>
 
 Initial webpage is a list of products including name, price, players, playing time, age, and image This
 information is all gathered by requesting a resource from the server which gets all of the board games
@@ -36,7 +36,7 @@ Credit Card Number: 16 digit integer in the format: 1234-5678-9012-3456
 After filling out the form with the valid data and selecting purchase, you will be navigated
 to a confirmation page. Your order is also added into a SQL database.
 
-(SQL)
+<ul>SQL</ul>
 
 
 board_no_more (database)
