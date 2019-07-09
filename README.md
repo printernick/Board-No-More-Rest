@@ -17,7 +17,7 @@ a table for the product's details, a description, and a form to purchase the gam
 When filling out the form, the inputs will be:
 
 <pre>
-Board Game: select one of the listed board games
+Board Game: the listed board game
 Quantity: a positive integer
 First Name: nonempty string
 Last Name: nonempty string
