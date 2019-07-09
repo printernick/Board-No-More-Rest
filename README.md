@@ -16,27 +16,19 @@ a table for the product's details, a description, and a form to purchase the gam
 
 When filling out the form, the inputs will be:
 
+<pre>
 Board Game: select one of the listed board games
-
 Quantity: a positive integer
-
 First Name: nonempty string
-
 Last Name: nonempty string
-
 Phone Number: 9 digit integer in the format: 123-456-7890
-
 Address: nonempty string
-
 Zip: 5 digit integer
-
 City: nonempty string
-
 State/Province/Region: nonempty string
-
 Delivery Option: select one of the listed shipping options
-
 Credit Card Number: 16 digit integer in the format: 1234-5678-9012-3456
+</pre>
 
 *NOTE: There are no options to select a country because we are currently
  shipping within the United States only.
